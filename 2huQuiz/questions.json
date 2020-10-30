@@ -1,0 +1,26 @@
+[
+    {
+      "question": "Where is Koishi's home?",
+      "choice1": "Palace of the Earth Spirits",
+      "choice2": "Human Village",
+      "choice3": "Myouran Temple",
+      "choice4": "Hakurei Shrine",
+      "answer": 1
+    },
+    {
+      "question": "How many masks does Kokoro have?",
+      "choice1": "39",
+      "choice2": "50",
+      "choice3": "66",
+      "choice4": "71",
+      "answer": 3
+    },
+    {
+      "question": "How do you spell the Crow Tengu's full name?",
+      "choice1": "Shameimima Aya",
+      "choice2": "Shameimaru Ayaya",
+      "choice3": "Shameimama Ara",
+      "choice4": "Shameimaru Aya",
+      "answer": 4
+    }
+  ]
